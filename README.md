@@ -40,7 +40,7 @@
     <li>Variate analysis</li>
   </ul>
   <h3>Accuracy achieved: 86.34</h3>
-  <h3><a href="https://www.kaggle.com/ronitf/heart-disease-uci">dataset</a></h3>
+  <h3><a href="https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/data">dataset</a></h3>
  
 </body>
 
